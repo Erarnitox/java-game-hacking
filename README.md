@@ -59,6 +59,8 @@ In this example i made a seperate mode that activates the ESP and Aimbot at the 
 If you just want to use this hack you can download a pre-compiled jar executable [**here**](https://github.com/Erarnitox/java-sauerbraten-hack/raw/master/bin/Cube2Hack.jar).
 
 # GHTools
+Note: the new repo for the Tools can be found [here](https://github.com/Erarnitox/GH_Tools).
+
 `GHTools` is a wrapper around [**JNA**](https://github.com/java-native-access) makes it easier to use and provides some new functionality for game hacking as well.
 
 ### Installing
