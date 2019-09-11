@@ -1,4 +1,4 @@
-# Sauerbraten Hack [**Video**](https://youtu.be/NnCIeuDxbm0)
+# Sauerbraten Hack ([**Video**](https://youtu.be/NnCIeuDxbm0))
 
 This hack is an example on how to use and what you can do with the Game Hacking Library `GHTools`
 
